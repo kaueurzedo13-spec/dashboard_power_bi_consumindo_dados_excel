@@ -1,0 +1,76 @@
+<img width="1418" height="777" alt="Image" src="https://github.com/user-attachments/assets/3b86a75d-db8d-4ad5-94b5-6b6ef1f4e8e4" />
+
+# 📊 Projeto de Análise de Vendas | Excel & Power BI
+
+## 📌 Visão Geral
+Este projeto foi desenvolvido com o objetivo de **analisar dados de vendas** e transformar informações brutas em **insights estratégicos**, utilizando **Microsoft Excel como fonte de dados** e **Power BI para visualização e análise interativa**.
+
+A partir de uma planilha de vendas criada e estruturada no Excel, foi desenvolvido um **dashboard dinâmico no Power BI**, permitindo acompanhar o desempenho comercial, identificar padrões de consumo e apoiar a tomada de decisões baseada em dados.
+
+---
+
+## 🎯 Objetivo do Projeto
+- Consolidar e organizar dados de vendas
+- Analisar indicadores de desempenho comercial
+- Criar visualizações claras e interativas
+- Demonstrar habilidades em análise de dados e Business Intelligence
+
+---
+
+## 📁 Estrutura dos Arquivos
+- **Vendas.xlsx**  
+  Planilha base contendo os dados de vendas utilizados na análise.
+
+- **Dashboard_Vendas.pbix**  
+  Arquivo do Power BI com o dashboard interativo desenvolvido a partir da base de dados.
+
+---
+
+## 📊 Base de Dados
+A base de dados foi criada no Excel e contém informações relevantes para a análise de vendas, como por exemplo:
+- Datas de venda
+- Produtos e categorias
+- Quantidade vendida
+- Valores unitários e totais
+- Informações de clientes, regiões ou vendedores *(quando aplicável)*
+
+Os dados foram organizados e preparados para garantir uma correta modelagem e visualização no Power BI.
+
+---
+
+## 📈 Dashboard no Power BI
+O dashboard apresenta indicadores e análises como:
+- **Faturamento total**
+- **Volume de vendas**
+- **Vendas por produto e categoria**
+- **Análise de vendas ao longo do tempo**
+- **Comparações por região ou segmento**
+- **KPIs para acompanhamento de desempenho**
+
+Além disso, o painel permite **filtros interativos**, possibilitando análises mais detalhadas e personalizadas.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Excel** – Criação, organização e preparação da base de dados  
+- **Power BI Desktop** – Modelagem de dados, criação de medidas e visualização interativa  
+
+---
+
+## 🚀 Como Executar o Projeto
+1. Clone ou faça o download deste repositório
+2. Abra o arquivo `Vendas_tabela_kaue.xlsx` para visualizar a base de dados
+3. Abra o arquivo `pbi_dados_kaue.pbix` no Power BI Desktop
+4. Caso necessário, atualize o caminho da fonte de dados no Power BI
+
+---
+
+## 📌 Considerações Finais
+Este projeto demonstra a aplicação prática de **análise de dados**, **visualização de informações** e **Business Intelligence**, servindo como exemplo de uso integrado entre Excel e Power BI para suporte à tomada de decisão.
+
+---
+
+## 👤 Autor
+Desenvolvido por Kaue Ignacio De Urzedo  
+📫 Contato: kaueurzedo13@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/kaue-ignacio-de-urzedo-60b935255
