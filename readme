@@ -1,0 +1,63 @@
+# 📊 Análise de Vendas – Excel & Power BI
+
+## 📝 Descrição do Projeto
+Este projeto consiste em uma **planilha de vendas desenvolvida no Microsoft Excel**, utilizada como base de dados para a criação de um **dashboard interativo no Power BI**.  
+O objetivo é **analisar o desempenho de vendas**, identificar tendências e apoiar a **tomada de decisão** por meio de visualizações claras e indicadores estratégicos.
+
+---
+
+## 📁 Estrutura do Projeto
+
+📦 Projeto-Vendas
+┣ 📄 Vendas.xlsx
+┣ 📊 Dashboard_Vendas.pbix
+┗ 📄 README.md
+
+
+---
+
+## 📊 Base de Dados (Excel)
+A planilha `Vendas.xlsx` contém os dados utilizados na análise, incluindo informações como:
+
+- Data da venda  
+- Produto  
+- Categoria  
+- Quantidade vendida  
+- Valor unitário  
+- Valor total  
+- Cliente / Região / Vendedor *(dependendo da estrutura criada)*  
+
+A base foi organizada e preparada para facilitar a importação e o tratamento no Power BI.
+
+---
+
+## 📈 Dashboard no Power BI
+O arquivo `Dashboard_Vendas.pbix` apresenta um painel interativo com:
+
+- 💰 **Faturamento total**
+- 📦 **Quantidade de vendas**
+- 📊 **Vendas por produto e categoria**
+- 🌎 **Desempenho por região**
+- 📆 **Análise temporal (mês/ano)**
+- 🎯 **Indicadores de performance (KPIs)**
+
+O dashboard permite filtros dinâmicos para facilitar análises específicas.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Excel** – Criação e organização da base de dados  
+- **Power BI Desktop** – Modelagem de dados e criação do dashboard  
+
+---
+
+## 🚀 Como Utilizar
+1. Faça o download ou clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2. Abra o arquivo Vendas_tabelas_kaue.xlsx para visualizar a base de dados.
+
+3. Abra o arquivo pbi_dados_kaue.pbix no Power BI Desktop.
+
+4. Caso necessário, ajuste o caminho da fonte de dados no Power BI.
